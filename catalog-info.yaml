@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: m-sruthika-10-Pr-Pe-Code-Review              # Matches ${repo.replace('/', '-')}
+  name: pr-pe-code-review              # Matches ${repo.replace('/', '-')}
   namespace: default                    # Matches the namespace in the URL
   annotations:
-    github.com/project-slug: m-sruthika-10/Pr-Pe-Code-Review  # Added correct annotation
-    backstage.io/github-repo: m-sruthika-10/Pr-Pe-Code-Review # Optional, can be kept for compatibility
+    github.com/project-slug: m-sruthika-10/pr-pe-code-review  # Added correct annotation
+    backstage.io/github-repo: m-sruthika-10/pr-pe-code-review # Optional, can be kept for compatibility
 spec:
   type: service
   lifecycle: experimental
