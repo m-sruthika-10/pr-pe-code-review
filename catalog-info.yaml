@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: m-sruthika-10/pr-pe-code-review  # Added correct annotation
     backstage.io/github-repo: m-sruthika-10/pr-pe-code-review # Optional, can be kept for compatibility
+    jira_key: DE
 spec:
   type: service
   lifecycle: experimental
