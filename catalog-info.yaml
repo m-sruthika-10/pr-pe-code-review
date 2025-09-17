@@ -8,6 +8,7 @@ metadata:
     backstage.io/github-repo: m-sruthika-10/pr-pe-code-review # Optional, can be kept for compatibility
     jira_key: DE
     sonar_key: project-mdm-qaspec-ui
+    syscoscore.io/enabled: "true"
 spec:
   type: service
   lifecycle: experimental
